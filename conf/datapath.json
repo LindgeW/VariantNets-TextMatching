@@ -1,0 +1,10 @@
+{
+  "data": {
+    "train_data": "./data/snli_1.0_train.jsonl",
+    "dev_data": "./data/snli_1.0_dev.jsonl",
+    "test_data": "./data/snli_1.0_test.jsonl"
+  },
+  "pretrained": {
+    "word_embedding": "./data/glove.6B.200d.txt"
+  }
+}
